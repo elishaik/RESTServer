@@ -1,0 +1,1 @@
+Simple FastAPI REST server for Balance interview
